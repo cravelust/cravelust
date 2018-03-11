@@ -1,0 +1,2 @@
+# cravelust
+A craving platform
